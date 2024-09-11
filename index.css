@@ -1,5 +1,5 @@
 .Nav1{
-    background-color: black;
+    background-color: red;
     color: white;
     display: flex;
     justify-content: space-evenly;
@@ -44,7 +44,7 @@
       border-style: dotted;
       margin: 260px 600px ;
       padding: 100px 100px;
-      border-color:  red green ;
+      border-color:  rgb(251, 9, 174) rgb(48, 252, 7) ;
       justify-content: center;
     
 
